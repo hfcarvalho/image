@@ -1,0 +1,3 @@
+Helio.jpg;C:/images;Imagem do Helio;jpg
+QWA_logo.jpg;C:/images;Logo da QWA;jpg
+CSharp.png;;Ícone do C#;png
